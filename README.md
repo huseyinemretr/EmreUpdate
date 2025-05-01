@@ -1,2 +1,1 @@
-# EmreApplicationUpdate
-EmreApplication Güncelleme Sunucusu
+
