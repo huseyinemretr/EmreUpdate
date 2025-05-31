@@ -1,1 +1,1 @@
-v1.0.0. Başlangıç Versiyonu
+v1.0.1 WA Bekleme Süreleri Güncellendi.
